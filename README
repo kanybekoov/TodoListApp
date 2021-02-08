@@ -1,0 +1,13 @@
+Todo List App:
+
+This is my first Android app in Kotlin language. Todo List is a simple app where user can add todo items to list, check it when it done and remove from list checked todo items.
+
+Technical components:
+Recycler View
+Edit Text
+Checkbox field
+Add button
+Delete button
+
+Additional in Future:
+All items added by user is saved only in list and when user close and open all items will be removed. In future I will add data to local database...
